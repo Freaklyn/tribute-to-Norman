@@ -1,0 +1,93 @@
+*{
+    background-color: rgb(131, 22, 22);
+    color:white;
+    font-size: 20px;
+    font-weight: bold;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+    
+}
+  .header{
+    padding: 2px;
+    margin: 1.5px;
+    text-align: center;
+    font-weight: bold;
+  }
+  h1{
+    font-size: 60px;
+  }
+  .post{
+    display: block;
+    margin: 1px;
+    padding-left: 4px;
+    text-align: center;
+    font-weight: lighter;
+  }
+  .page{
+    font-family:sans-serif;
+    font-size: 1.2rem;
+    
+  }
+  
+  #image{
+    background-image: url(img/1.jpg);
+    background-blend-mode:overlay;
+    padding: 10px;
+    overflow: hidden;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+  }
+  .pic{
+  background-color: rgba(136, 18, 18, 0);
+    overflow: visible;
+    display: block;
+    height: auto;
+    text-align: center;
+    margin:auto;
+    padding: 20px;
+    max-width: 100%;
+    
+  }
+  .side p{
+    text-align: center;
+    position: relative;
+    right: 10px;
+    bottom: 10px;
+  }
+  .arc{
+    font-style: italic;
+    text-align: center;
+    font-weight: bold;
+    
+  }
+  .arc2{
+    font-style: italic;
+    text-align: center;
+  }
+  p{
+    text-align: center;
+  }
+  ul{
+    margin-left: auto;
+    margin-right: auto;
+    line-height: 1.5;
+    max-width: 520px;
+    display: block;
+    padding-top: 10px;
+      position: relative;
+      left: 5px;
+  }
+  .review{
+    text-align: center;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+  .footer{
+    text-align: center;
+    font-style:normal;
+  }
+  a{
+    color: rgb(118, 118, 212);
+  }
+ 
+  
